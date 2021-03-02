@@ -1,12 +1,7 @@
 {
-  "*Organizacyjne*": [
+  "Organizacyjne": [
     "SMW-ZPWD",
     "400 Zarządzanie i organizacja w etapie IV",
     "organizacyjne"
-  ],
-  "!Organizacyjne": [
-    "SMW-ZPWD",
-    "403 Uszczegółowienie Projektu Technicznego (Architektura)",
-    "projektowe"
   ]
-}
+  }
