@@ -3,5 +3,10 @@
     "SMW-ZPWD",
     "400 Zarządzanie i organizacja w etapie IV",
     "organizacyjne"
+  ],
+   ".*": [
+    "SMW-ZPWD",
+    "403 Uszczegółowienie Projektu Technicznego (Architektura)",
+    "projektowe"
   ]
   }
